@@ -3,7 +3,7 @@
 ## CIT 281 Labs and Projects
 Welcome to my CIT 281 Portfolio!
 
-[Lab 1](hsacrey.github.io/cit281-lab1.md) -  Installing Software and Setup
+[Lab 1](hsacrey.github.io/cit281-lab1) -  Installing Software and Setup
 
 [Project 1]() - CLI and JS Refresher
 
