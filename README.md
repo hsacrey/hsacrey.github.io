@@ -1,2 +1,2 @@
-# hsacrey.github.io
-CIT Minor Portfolio
+# Hunter Sacrey's CIT Homepage
+Welcome to my CIT Minor Portfolio
