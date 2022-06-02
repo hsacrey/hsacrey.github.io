@@ -1,9 +1,9 @@
 ![money](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 ## CIT 281 Labs and Projects
-Welcome to my CIT Minor Portfolio 
+Welcome to my CIT 281 Portfolio!
 
-[Lab 1]() -  Installing Software and Setup
+[Lab 1](hsacrey.github.io/cit281-lab1) -  Installing Software and Setup
 
 [Project 1]() - CLI and JS Refresher
 
