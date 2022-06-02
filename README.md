@@ -1,42 +1,34 @@
 # Hunter Sacrey's CIT Homepage
 Welcome to my CIT Minor Portfolio
 
+[Lab 1]() -  Installing Software and Setup
 
-Lab 1 -  Installing Software and Setup
+[Project 1]() - CLI and JS Refresher
 
-Project 1 - CLI and JS Refresher
+[Lab 2]() - Intro to Git
 
+[Project 2]() - JS and saving to Git
 
-Lab 2 - Intro to Git
+[Lab 3]() - Introduction to JS Objects
 
-Project 2 - JS and saving to Git
+[Lab 4]() - Introduction to Fastify Server
 
+[Project 3]() - Practice with Web server and pages
 
-Lab 3 - Introduction to JS Objects
+[Lab 5]() - Introduction to Postman
 
-Lab 4 - Introduction to Fastify Server
+[Project 4]() - Practice w/ Web Server through Postman
 
-Project 3 - Practice with Web server and pages
+[Lab 6]() - Intro to JS Classes
 
+[Project 5]() - Monster Game, JS Classes
 
-Lab 5 - Introduction to Postman
+[Lab 7]() - Intro to GitHub and Repositorites
 
-Project 4 - Practice w/ Web Server through Postman
+[Project 6]() - JS Classes and Inheritance
 
+[Lab 8]() - Fetching JSON placeholder data
 
-Lab 6 - Intro to JS Classes
+[Lab 9]() - Creating a release-based Workflow on GitHub
 
-Project 5 - Monster Game, JS Classes
-
-
-Lab 7 - Intro to GitHub and Repositorites
-
-Project 6 - JS Classes and Inheritance
-
-
-Lab 8 - Fetching JSON placeholder data
-
-Lab 9 - Creating a release-based Workflow on GitHub
-
-Project 7 - Creating Github Pages Portfolio
-
+[Project 7]() - Creating Github Pages Portfolio
