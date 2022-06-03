@@ -27,7 +27,7 @@ Welcome to my CIT 281 Portfolio!
 
 [Lab 7](../cit281-lab7) - Intro to GitHub and Repositorites
 
-[Project 6](../cit281-project6) - JS Classes and Inheritance
+[Project 6](/cit281-project6) - JS Classes and Inheritance
 
 [Lab 8](../cit281-lab8) - Fetching JSON placeholder data
 
